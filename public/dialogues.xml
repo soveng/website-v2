@@ -39,8 +39,8 @@ Est. 882,690. Inspired by Sovereign Engineering https://sovereignengineering.io/
     <itunes:summary>No solutions, only trade-offs. Walking towards a better internet through freedom tech, open protocols, and sovereign engineering.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <managingEditor>gigi@sovereignengineering.io (Gigi)</managingEditor>
-    <pubDate>Mon, 19 Oct 2026 14:58:37 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 14:58:37 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 15:07:54 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:07:54 +0000</lastBuildDate>
     <category>Technology</category>
     <podcast:guid>2ff22ba8-f69b-5067-9068-9c1636ebc718</podcast:guid>
     <item>
@@ -49,7 +49,7 @@ Est. 882,690. Inspired by Sovereign Engineering https://sovereignengineering.io/
 <p><a href="https://njump.to/npub175aemydge5thld9peuyp5xmdtp6e5wq77ys203dp3s88pjhgpxpsvgkemm">Thomas</a> &amp; <a href="https://njump.to/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc">Gigi</a> take a walk in Madeira.</p>
 <p><a href="https://sovereignengineering.io/podcast/39-the-nostr-office-just-works-w-thomas">Listen on sovereignengineering.io</a></p>
 <p>Thomas joined Sovereign Engineering through SEC-04 and found a place to keep building in Madeira. The name <a href="https://nostroffice.nobios.ai/">Nostr Office</a> emerged because people kept saying, &quot;Let&#39;s go to the Nostr Office.&quot; Now the space is becoming a home for builders and a base for the Madeira Makerspace.</p>
-<p>The walk follows <a href="https://justworks.cash/">Just Works</a> from its first idea, turning an existing social profile into an owned <a href="https://nsite.run/">nsite</a>, toward a map of local places and an easier path to Bitcoin payments. Thomas and Gigi explore what it would mean to zap a place before its owner has adopted Bitcoin, show that support to the owner later, and make paying feel as simple as leaving cash on the table. The hard questions sit underneath the easy interface: who holds the keys, where do the funds go, and how much complexity can be hidden without hiding the trade-offs?</p>
+<p>The walk follows <a href="https://justworks.cash/">Just Works</a> from its first idea, turning an existing social profile into an owned <a href="https://nsite.run/">nsite</a>, toward a <a href="https://maps.justworks.cash/">map of local places</a> and an easier path to Bitcoin payments. The <a href="https://gallery.justworks.cash/">Just Works Gallery</a> shows the places behind that idea. Thomas and Gigi explore what it would mean to zap a place before its owner has adopted Bitcoin, show that support to the owner later, and make paying feel as simple as leaving cash on the table. The hard questions sit underneath the easy interface: who holds the keys, where do the funds go, and how much complexity can be hidden without hiding the trade-offs?</p>
 <p>That leads into <a href="https://justworks.cash/">JustPay</a>, stable payment identities, and the everyday reality of paying at a counter while a queue forms behind you. It also leads back to the Nostr Office, where a planned maker space would give Sovereign Engineering builders room for 3D printing and hardware experiments. Software can be prompted into existence quickly; physical things still need tools, materials, space, and people who show up.</p>
 <p>The conversation widens to Gigi&#39;s voice-built Nostr client Feather, proof of work and web of trust, the responsibility of holding keys, recurring Bitcoin payments, and the changing economics of software development. It ends with <em>Dialogical Development</em>: building through an open-ended exchange with other people, agents, and the work itself.</p>
 <p>In this dialogue:</p>
@@ -57,7 +57,7 @@ Est. 882,690. Inspired by Sovereign Engineering https://sovereignengineering.io/
 <li>how the <a href="https://nostroffice.nobios.ai/">Nostr Office</a> got its name and became a gathering place in Madeira</li>
 <li>why Thomas&#39;s work on queueing systems led naturally to questions about payment friction</li>
 <li>how <a href="https://justworks.cash/">Just Works</a> connects existing profiles, Nostr identities, nsites, and local businesses</li>
-<li>what a map and zap leaderboard could do for places that do not yet accept Bitcoin</li>
+<li>what the <a href="https://maps.justworks.cash/">Just Works Map</a> and a zap leaderboard could do for places that do not yet accept Bitcoin</li>
 <li>the ownership and custody questions behind simple onboarding, <a href="https://npub.cash/">npub.cash</a>, and <a href="https://nips.nostr.com/60">NIP-60</a></li>
 <li>why JustPay aims for a stable payment identity and a better experience at the counter</li>
 <li>how Gigi built and iterated on Feather through voice prompts and releases on <a href="https://zapstore.dev/">Zapstore</a></li>
@@ -80,6 +80,8 @@ Est. 882,690. Inspired by Sovereign Engineering https://sovereignengineering.io/
 <ul>
 <li><a href="https://nostroffice.nobios.ai/">Nostr Office</a></li>
 <li><a href="https://justworks.cash/">Just Works</a></li>
+<li><a href="https://maps.justworks.cash/">Just Works Map</a></li>
+<li><a href="https://gallery.justworks.cash/">Just Works Gallery</a></li>
 <li><a href="https://sovereignengineering.io/">Sovereign Engineering</a></li>
 <li><a href="https://fips.network/">FIPS</a></li>
 <li><a href="https://tollgate.me/">TollGate</a></li>
@@ -113,7 +115,7 @@ Est. 882,690. Inspired by Sovereign Engineering https://sovereignengineering.io/
 <p><a href="https://njump.to/npub175aemydge5thld9peuyp5xmdtp6e5wq77ys203dp3s88pjhgpxpsvgkemm">Thomas</a> &amp; <a href="https://njump.to/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc">Gigi</a> take a walk in Madeira.</p>
 <p><a href="https://sovereignengineering.io/podcast/39-the-nostr-office-just-works-w-thomas">Listen on sovereignengineering.io</a></p>
 <p>Thomas joined Sovereign Engineering through SEC-04 and found a place to keep building in Madeira. The name <a href="https://nostroffice.nobios.ai/">Nostr Office</a> emerged because people kept saying, &quot;Let&#39;s go to the Nostr Office.&quot; Now the space is becoming a home for builders and a base for the Madeira Makerspace.</p>
-<p>The walk follows <a href="https://justworks.cash/">Just Works</a> from its first idea, turning an existing social profile into an owned <a href="https://nsite.run/">nsite</a>, toward a map of local places and an easier path to Bitcoin payments. Thomas and Gigi explore what it would mean to zap a place before its owner has adopted Bitcoin, show that support to the owner later, and make paying feel as simple as leaving cash on the table. The hard questions sit underneath the easy interface: who holds the keys, where do the funds go, and how much complexity can be hidden without hiding the trade-offs?</p>
+<p>The walk follows <a href="https://justworks.cash/">Just Works</a> from its first idea, turning an existing social profile into an owned <a href="https://nsite.run/">nsite</a>, toward a <a href="https://maps.justworks.cash/">map of local places</a> and an easier path to Bitcoin payments. The <a href="https://gallery.justworks.cash/">Just Works Gallery</a> shows the places behind that idea. Thomas and Gigi explore what it would mean to zap a place before its owner has adopted Bitcoin, show that support to the owner later, and make paying feel as simple as leaving cash on the table. The hard questions sit underneath the easy interface: who holds the keys, where do the funds go, and how much complexity can be hidden without hiding the trade-offs?</p>
 <p>That leads into <a href="https://justworks.cash/">JustPay</a>, stable payment identities, and the everyday reality of paying at a counter while a queue forms behind you. It also leads back to the Nostr Office, where a planned maker space would give Sovereign Engineering builders room for 3D printing and hardware experiments. Software can be prompted into existence quickly; physical things still need tools, materials, space, and people who show up.</p>
 <p>The conversation widens to Gigi&#39;s voice-built Nostr client Feather, proof of work and web of trust, the responsibility of holding keys, recurring Bitcoin payments, and the changing economics of software development. It ends with <em>Dialogical Development</em>: building through an open-ended exchange with other people, agents, and the work itself.</p>
 <p>In this dialogue:</p>
@@ -121,7 +123,7 @@ Est. 882,690. Inspired by Sovereign Engineering https://sovereignengineering.io/
 <li>how the <a href="https://nostroffice.nobios.ai/">Nostr Office</a> got its name and became a gathering place in Madeira</li>
 <li>why Thomas&#39;s work on queueing systems led naturally to questions about payment friction</li>
 <li>how <a href="https://justworks.cash/">Just Works</a> connects existing profiles, Nostr identities, nsites, and local businesses</li>
-<li>what a map and zap leaderboard could do for places that do not yet accept Bitcoin</li>
+<li>what the <a href="https://maps.justworks.cash/">Just Works Map</a> and a zap leaderboard could do for places that do not yet accept Bitcoin</li>
 <li>the ownership and custody questions behind simple onboarding, <a href="https://npub.cash/">npub.cash</a>, and <a href="https://nips.nostr.com/60">NIP-60</a></li>
 <li>why JustPay aims for a stable payment identity and a better experience at the counter</li>
 <li>how Gigi built and iterated on Feather through voice prompts and releases on <a href="https://zapstore.dev/">Zapstore</a></li>
@@ -144,6 +146,8 @@ Est. 882,690. Inspired by Sovereign Engineering https://sovereignengineering.io/
 <ul>
 <li><a href="https://nostroffice.nobios.ai/">Nostr Office</a></li>
 <li><a href="https://justworks.cash/">Just Works</a></li>
+<li><a href="https://maps.justworks.cash/">Just Works Map</a></li>
+<li><a href="https://gallery.justworks.cash/">Just Works Gallery</a></li>
 <li><a href="https://sovereignengineering.io/">Sovereign Engineering</a></li>
 <li><a href="https://fips.network/">FIPS</a></li>
 <li><a href="https://tollgate.me/">TollGate</a></li>
